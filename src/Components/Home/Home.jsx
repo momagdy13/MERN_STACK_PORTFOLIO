@@ -23,14 +23,14 @@ export default function Home() {
             <div class="screenWords">
               <h1>Hello, I'm Mohamed.</h1>
               <p>
-                A full-stack developer. Specializing in building exceptional
+                A MERN-stack developer. Specializing in building exceptional
                 trending websites. Feel free to take a
                 look at my latest projects. Remotely available.
-                hamomagdy12266@gmail.com Tel:+(20) 01015314045
+                momagdy2267@gmail.com Tel:+(20) 01015314045
               </p>
               <div class="twoMainButton">
                 <div class="buttonMain">
-                  <a href="/websites">Websites</a>
+                  <a href="/websites">My_Websites</a>
                   <div class="hrizontalLine diff"></div>
                 </div>
               </div>
